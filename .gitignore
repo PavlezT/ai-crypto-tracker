@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+.next/
+.env*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env/
+.envrc
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test/coverage
+coverage/
+*.cover
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Build
+build/
+dist/
+
+# Misc
+*.swp
+*.swo
+.idea/
+
+# Ignore local memory and secrets
+# memory_bank/errors.md
+# memory_bank/activeContext.md
+# memory_bank/progress.md
+# memory_bank/decisions.md
+# memory_bank/glossary.md
