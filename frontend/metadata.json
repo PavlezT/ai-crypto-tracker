@@ -1,0 +1,5 @@
+{
+  "name": "CryptoTracker",
+  "description": "A cryptocurrency tracking application with user authentication and personalized watchlists.",
+  "requestFramePermissions": []
+}
